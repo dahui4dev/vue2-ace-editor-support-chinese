@@ -1,0 +1,23 @@
+{
+  "name": "vue2-ace-editor-support-chinese",
+  "version": "0.0.1",
+  "description": "A Vue2.0's component based on last ace/brace",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangjianhui2464/vue2-ace-editor-support-chinese"
+  },
+  "author": "wangjianhui",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wangjianhui2464/vue2-ace-editor-support-chinese/issues"
+  },
+  "homepage": "https://github.com/wangjianhui2464/vue2-ace-editor-support-chinese#readme",
+  "dependencies": {
+    "brace": "^0.10.0",
+    "emmet": "git+https://github.com/cloud9ide/emmet-core.git#41973fcc70392864c7a469cf5dcd875b88b93d4a"
+  }
+}
