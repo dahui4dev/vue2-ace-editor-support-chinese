@@ -1,12 +1,13 @@
 {
   "name": "vue2-ace-editor-support-chinese",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "wangjianhui2464",
   "description": "A Vue2.0's component based on last ace/brace",
   "keywords": [
     "node.js",
     "javascript",
     "ace",
+    "autoComplete",
     "chinese"
   ],
   "main": "index.js",
